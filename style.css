@@ -14,7 +14,7 @@ body {
 
 /* ヘッダー */
 header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #4caf50 0%, #2e7d32 100%);
     color: white;
     padding: 40px 20px;
     text-align: center;
@@ -34,31 +34,31 @@ header h1 {
 .hero-image-placeholder {
     width: 100%;
     height: 300px;
-    background-color: #e8d0ff;
+    background-color: #e8f5e9;
     display: flex;
     align-items: center;
     justify-content: center;
     margin-bottom: 30px;
     border-radius: 0;
-    border: 2px dashed #9c27b0;
+    border: 2px dashed #388e3c;
 }
 
 /* 画像プレースホルダー */
 .image-placeholder {
     width: 100%;
     height: 200px;
-    background-color: #f3e5f5;
+    background-color: #c8e6c9;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 20px 0;
     border-radius: 8px;
-    border: 2px dashed #ba68c8;
+    border: 2px dashed #81c784;
 }
 
 .placeholder-text {
     text-align: center;
-    color: #7b1fa2;
+    color: #1b5e20;
     font-weight: bold;
     padding: 10px;
 }
@@ -67,7 +67,7 @@ header h1 {
     display: block;
     font-weight: normal;
     font-size: 14px;
-    color: #9c27b0;
+    color: #388e3c;
     margin-top: 5px;
 }
 
@@ -99,7 +99,7 @@ main {
 .toc h2 {
     font-size: 24px;
     margin-bottom: 20px;
-    color: #667eea;
+    color: #4caf50;
 }
 
 .toc ol {
@@ -111,7 +111,7 @@ main {
 }
 
 .toc a {
-    color: #667eea;
+    color: #4caf50;
     text-decoration: none;
 }
 
@@ -126,10 +126,10 @@ main {
 
 .section h2 {
     font-size: 26px;
-    color: #667eea;
+    color: #4caf50;
     margin-bottom: 20px;
     padding-bottom: 10px;
-    border-bottom: 3px solid #667eea;
+    border-bottom: 3px solid #4caf50;
 }
 
 .section h3 {
@@ -166,12 +166,12 @@ main {
     padding: 30px;
     background-color: #fafafa;
     border-radius: 8px;
-    border-left: 5px solid #667eea;
+    border-left: 5px solid #4caf50;
 }
 
 .app-item h3 {
     font-size: 22px;
-    color: #667eea;
+    color: #4caf50;
     margin-bottom: 20px;
 }
 
@@ -237,7 +237,7 @@ main {
 }
 
 .app-recommend h4 {
-    color: #667eea;
+    color: #4caf50;
 }
 
 .official-link {
@@ -246,7 +246,7 @@ main {
 
 .official-link a {
     display: inline-block;
-    background-color: #667eea;
+    background-color: #4caf50;
     color: white;
     padding: 12px 24px;
     border-radius: 4px;
@@ -255,7 +255,7 @@ main {
 }
 
 .official-link a:hover {
-    background-color: #5568d3;
+    background-color: #43a047;
 }
 
 /* イベントアイテム */
@@ -267,7 +267,7 @@ main {
 }
 
 .event-item h4 {
-    color: #667eea;
+    color: #4caf50;
     margin-bottom: 15px;
 }
 
@@ -277,11 +277,11 @@ main {
     padding: 25px;
     background-color: #fafafa;
     border-radius: 8px;
-    border-left: 4px solid #764ba2;
+    border-left: 4px solid #2e7d32;
 }
 
 .spot-item h4 {
-    color: #764ba2;
+    color: #2e7d32;
     margin-bottom: 15px;
 }
 
@@ -294,13 +294,13 @@ main {
 }
 
 .faq-item h3 {
-    color: #667eea;
+    color: #4caf50;
     font-size: 18px;
     margin-bottom: 15px;
 }
 
 .faq-answer h4 {
-    color: #764ba2;
+    color: #2e7d32;
     font-size: 16px;
     margin-bottom: 10px;
 }
@@ -312,7 +312,7 @@ main {
 }
 
 .back-to-toc a {
-    color: #667eea;
+    color: #4caf50;
     text-decoration: none;
     font-size: 14px;
 }
